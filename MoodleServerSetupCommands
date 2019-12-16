@@ -38,3 +38,9 @@ GRANT ALL PRIVILEGES ON moodle.* TO 'moodleuser'@'%' IDENTIFIED BY 'bluehatssjsu
 sudo vim /etc/mysql/mysql.conf.d/mysqld.cnf
 https://mariolurig.com/coding/connect-remotely-mysql-database-amazon-ec2-server/
 
+http://18.225.11.231/moodle
+username: admin
+password: Pa$$w0rd
+-------------------------------------
+moodleuser
+bluehatssjsu
