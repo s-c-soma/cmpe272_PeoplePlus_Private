@@ -1,0 +1,5 @@
+Video URL: https://youtu.be/GAvgo14Vcyg Github: https://github.com/manmeet3/cmpe272_PeoplePlus (details inside report) * initial submission, please ignore in favor of the latest *
+Manmeet Singh, Dec 15 at 9:40pm
+Please rename "BlueHats_PeoplePlus_Compressed.doc" to BlueHats_PeoplePlus_Compressed.mp4". Tried uploading to youtube. Didn't work without artifacts
+Manmeet Singh, Dec 15 at 10:38pm
+** FINAL SUBMISSION ** Video URL: https://youtu.be/Iw2zfz8AOjI Github: https://github.com/manmeet3/cmpe272_PeoplePlus (details inside report)
